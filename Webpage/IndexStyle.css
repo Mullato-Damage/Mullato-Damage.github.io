@@ -1,0 +1,32 @@
+body {
+    background-color: green;
+}
+img {
+    height: 15%;
+    width: 15%;
+}
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+    color: yellow;
+}
+h4 {
+    text-align: center;
+}
+.ButtonGrid {
+    background-color: grey;
+    text-align: center;
+}
+.PortalButtons {
+    width: 150px;
+    height: 30px;
+    background-color:darkred;
+    border-radius: 12px;
+    border-color: darkblue;
+}
